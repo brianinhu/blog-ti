@@ -1,22 +1,22 @@
 ---
-title: Why a balloon is a flexible bag
+title: Antecedentes del proyecto
 description: "meta description"
-date: 2022-04-02T05:00:00Z
+date: 2024-09-16T12:00:00Z
 image: "/images/posts/02.jpg"
 categories: ["development"]
-authors: ["John Doe"]
+authors: ["Willy Delgado"]
 tags: ["diy", "toy"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+En esta sección se verán 5 antecedentes nacionales e internacionales de proyectos similares al que se desea realizar.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### Antecedente 1
 
-## Creative Design
+### Antecedente 2
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+### Antecedente 3
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### Antecedente 4
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### Antecedente 5

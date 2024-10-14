@@ -1,22 +1,40 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Identificación del proyecto"
 description: "meta description"
-date: 2022-04-01T05:00:00Z
+date: 2024-09-16T12:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
+authors: ["Brian Inca"]
 tags: ["diy", "toy"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+En esta página se identifican los datos del proyecto y el resumen ejecutivo.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## 1. Datos del proyecto
 
-## Creative Design
+#### Nombre del proyecto
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Implementación de Dispensadores de Agua Inteligentes con Gestión de Datos e IoT en la UNTELS
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+#### Organización / Unidad Organizativa
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Grupo Estudiantil Universitario
+
+#### Fecha de inicio
+
+16/09/24
+
+#### Cliente
+
+Universidad Nacional Tecnológica de Lima Sur
+
+## 2. Resumen ejecutivo
+
+La iniciativa contempla el diseño e instalación de dispensadores de agua equipados con sensores y tecnología IoT, los cuales permitirán monitorear el consumo en tiempo real, emitir alertas automáticas para mantenimiento predictivo y gestionar de manera eficiente los recursos hídricos.
+
+El sistema propuesto no solo busca mejorar la experiencia del usuario, brindando agua potable de manera gratuita y accesible a toda la comunidad estudiantil, sino también fomentar prácticas sostenibles y saludables. A través de la recolección y análisis de datos, la universidad podrá tomar decisiones informadas para optimizar el uso del agua y reducir costos operativos asociados al mantenimiento. Este proyecto se alinea con los principios de sostenibilidad y responsabilidad social, contribuyendo al bienestar de los estudiantes y al cuidado del medio ambiente.
+
+La implementación de estos dispensadores de agua inteligentes representará una mejora significativa en la gestión de recursos, promoviendo una cultura de consumo responsable y posicionando a la UNTELS como una institución comprometida con el uso de tecnologías innovadoras para el beneficio de su comunidad.
+
+![chuntels](/images/untels.jpg)
