@@ -19,6 +19,7 @@ El árbol de análisis del problema es una herramienta que permite desglosar un 
 
 El diagrama de análisis del problema es una representación visual de las relaciones entre los elementos que componen un problema, permitiendo identificar las causas y efectos de manera clara y concisa. A continuación se presenta un diagrama de análisis del problema para el caso de estudio de la implementación de dispensadores de agua inteligentes con gestión de datos e IoT en la UNTELS:
 
+![chuntels](/images/diagrama-analisis-problemas.png)
 
 ### Árbol de análisis de objetivos
 
@@ -29,3 +30,5 @@ El árbol de análisis de objetivos es una herramienta que permite desglosar los
 ### Diagrama de análisis de objetivos
 
 El diagrama de análisis de objetivos es una representación visual de los objetivos de un proyecto y las relaciones entre ellos, permitiendo identificar las dependencias y prioridades de manera clara y concisa. A continuación se presenta un diagrama de análisis de objetivos para el caso de estudio de la implementación de dispensadores de agua inteligentes con gestión de datos e IoT en la UNTELS:
+
+![chuntels](/images/diagrama-analisis-objetivos.jpg)
