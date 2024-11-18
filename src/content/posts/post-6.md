@@ -5,8 +5,8 @@ date: 2024-10-16T06:00:00+00:00
 image: "/images/posts/06.jpg"
 draft: false
 authors: ["Carlos Pineda"]
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
+tags: ["Análisis", "Objetivos", "Alternativas", "Proyectos"]
+categories: ["VI"]
 ---
 
 El análisis de alternativas permite identificar las estrategias/acciones (alternativas de solución) para pasar de la situación negativa actual a la situación positiva deseada, es decir, este análisis implica describir el COMO lo vamos hacer.

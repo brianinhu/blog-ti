@@ -3,7 +3,7 @@ title: III. Caso de negocio
 description: "meta description"
 date: 2024-09-20T06:00:00+00:00
 image: "/images/posts/03.jpg"
-categories: ["art"]
+categories: ["III"]
 authors: ["Brian Inca"]
 tags: ["diy", "toy"]
 draft: false

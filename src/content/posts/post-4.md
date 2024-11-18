@@ -6,7 +6,7 @@ image: "/images/posts/04.jpg"
 draft: false
 authors: ["Carlos Pineda"]
 tags: ["Balloon", "Gas"]
-categories: ["Accessories"]
+categories: ["IV"]
 ---
 
 ## Stakeholders involucrados

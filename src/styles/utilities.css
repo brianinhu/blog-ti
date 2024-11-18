@@ -1,0 +1,12 @@
+b,
+strong {
+  @apply font-semibold;
+}
+
+img {
+  @apply inline-block;
+}
+
+.shadow {
+  box-shadow: 0 10px 30px rgba(22, 28, 45, 0.1);
+}/*# sourceMappingURL=utilities.css.map */

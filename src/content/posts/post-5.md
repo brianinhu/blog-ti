@@ -6,7 +6,7 @@ image: "/images/posts/05.jpg"
 draft: false
 authors: ["Willy Delgado"]
 tags: ["Food", "Gold"]
-categories: ["Food"]
+categories: ["V"]
 ---
 
 ### Árbol de análisis del problema

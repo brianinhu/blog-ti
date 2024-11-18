@@ -3,7 +3,7 @@ title: II. Antecedentes del proyecto
 description: "meta description"
 date: 2024-09-18T06:00:00+00:00
 image: "/images/posts/02.jpg"
-categories: ["development"]
+categories: ["II"]
 authors: ["Willy Delgado"]
 tags: ["diy", "toy"]
 draft: false
