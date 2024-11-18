@@ -1,7 +1,7 @@
 ---
-title: "Análisis del problema y objetivos"
+title: "V. Análisis del problema y objetivos"
 description: "meta description"
-date: 2024-09-16T16:56:47+06:00
+date: 2024-10-14T06:00:00+00:00
 image: "/images/posts/05.jpg"
 draft: false
 authors: ["Willy Delgado"]

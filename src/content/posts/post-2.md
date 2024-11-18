@@ -1,7 +1,7 @@
 ---
-title: Antecedentes del proyecto
+title: II. Antecedentes del proyecto
 description: "meta description"
-date: 2024-09-16T12:00:00Z
+date: 2024-09-18T06:00:00+00:00
 image: "/images/posts/02.jpg"
 categories: ["development"]
 authors: ["Willy Delgado"]

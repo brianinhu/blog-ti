@@ -1,7 +1,7 @@
 ---
-title: "Identificación del proyecto"
+title: "I. Identificación del proyecto"
 description: "meta description"
-date: 2024-09-16T12:00:00Z
+date: 2024-09-16T06:00:00+00:00
 image: "/images/posts/01.jpg"
 categories: ["art"]
 authors: ["Brian Inca"]

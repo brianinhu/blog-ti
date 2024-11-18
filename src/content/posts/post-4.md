@@ -1,7 +1,7 @@
 ---
-title: "Análisis de los stakeholders"
+title: "IV. Análisis de los stakeholders"
 description: "meta description"
-date: 2024-09-16T16:56:47+06:00
+date: 2024-09-22T06:00:00+00:00
 image: "/images/posts/04.jpg"
 draft: false
 authors: ["Carlos Pineda"]
