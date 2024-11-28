@@ -1,23 +1,17 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "Implementación de Dispensadores de Agua 
+Inteligentes con Gestión de Datos e IoT en la UNTELS"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/about.jpg"
 draft: false
-
-what_i_do:
-  title: "What I Do"
-  items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+El equipo del proyecto está conformado por los estudiantes del 8° ciclo de la carrera de Ingeniería de Sistemas de la Universidad Nacional Tecnológica de Lima Sur (UNTELS):
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+**Grupo 4**
+- **Anaya Castro, Jefersson Rodrigo**
+- **Delgado Tuanama, Willy Francis**
+- **Inca Huamaní, Brian Omar**
+- **Pineda Urquiza, Carlos Antonio**
+
+El proyecto forma parte del curso ***Formulación y Evaluación de Proyectos de TI***, a cargo del docente Ing. Antonio Arqque Pantigozo.
