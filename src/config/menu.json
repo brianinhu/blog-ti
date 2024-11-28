@@ -9,10 +9,6 @@
       "url": "/about"
     },
     {
-      "name": "Contacto",
-      "url": "/contact"
-    },
-    {
       "name": "Páginas",
       "url": "",
       "hasChildren": true,
@@ -36,10 +32,6 @@
     {
       "name": "Acerca de",
       "url": "/about"
-    },
-    {
-      "name": "Contacto",
-      "url": "/contact"
     }
   ]
 }
