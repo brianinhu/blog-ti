@@ -5,7 +5,7 @@ date: 2024-12-02T07:00:00+00:00
 image: "/images/posts/09-2.png"
 draft: false
 authors: ["Brian Inca"]
-tags: ["estimar", "costos"]
+tags: ["estimacion", "costos"]
 categories: ["Linea base de los costos"]
 ---
 
