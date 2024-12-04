@@ -2,14 +2,14 @@
 title: "9.2. Estimar costos"
 description: "meta description"
 date: 2024-12-02T07:00:00+00:00
-image: "/images/posts/08-5.png"
+image: "/images/posts/09-2.png"
 draft: false
 authors: ["Brian Inca"]
 tags: ["estimar", "costos"]
 categories: ["Linea base de los costos"]
 ---
 
-Estimar los Costos es el proceso de desarrollar una aproximación del costo de los recursos necesarios para completar el trabajo del proyecto. El beneficio clave de este proceso es que determina los recursos monetarios requeridos para el proyecto. Este proceso se lleva a cabo periódicamente a lo largo del proyecto, según sea necesario
+La estimación de costos es el proceso de desarrollar una aproximación del costo de los recursos necesarios para completar el trabajo del proyecto. El beneficio clave de este proceso es que determina los recursos monetarios requeridos para el proyecto. Este proceso se lleva a cabo periódicamente a lo largo del proyecto, según sea necesario
 
 &nbsp;
 ## Entradas

@@ -2,14 +2,14 @@
 title: "9.1. Planificar la gestión de los costos"
 description: "meta description"
 date: 2024-12-02T06:00:00+00:00
-image: "/images/posts/08-5.png"
+image: "/images/posts/09-1.png"
 draft: false
 authors: ["Brian Inca"]
 tags: ["planificacion", "gestion", "costos"]
 categories: ["Linea base de los costos"]
 ---
 
-La planificación de la gestiónd de los costos es el proceso que establece las políticas, los procedimientos y la documentación necesarios para planificar, gestionar, ejecutar el gasto y controlar los costos del proyecto.
+La planificación de la gestión de los costos es el proceso que establece las políticas, los procedimientos y la documentación necesarios para planificar, gestionar, ejecutar el gasto y controlar los costos del proyecto.
 
 &nbsp;
 ## Entradas

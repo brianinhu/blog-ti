@@ -2,15 +2,14 @@
 title: "9.3. Determinar el presupuesto"
 description: "meta description"
 date: 2024-12-02T08:00:00+00:00
-image: "/images/posts/08-5.png"
+image: "/images/posts/09-3.png"
 draft: false
 authors: ["Brian Inca"]
 tags: ["determinacion","presupuesto"]
 categories: ["Linea base de los costos"]
 ---
 
-Determinar el Presupuesto es el proceso que consiste en sumar los costos estimados de las actividades
-individuales o paquetes de trabajo para establecer una línea base de costos autorizada. El beneficio clave de este proceso es que determina la línea base de costos con respecto a la cual se puede monitorear y controlar el desempeño del proyecto. Este proceso se lleva a cabo una única vez o en puntos predefinidos del proyecto.
+La determinación del presupuesto es el proceso que consiste en sumar los costos estimados de las actividades individuales o paquetes de trabajo para establecer una línea base de costos autorizada. El beneficio clave de este proceso es que determina la línea base de costos con respecto a la cual se puede monitorear y controlar el desempeño del proyecto. Este proceso se lleva a cabo una única vez o en puntos predefinidos del proyecto.
 
 &nbsp;
 ## Entradas
