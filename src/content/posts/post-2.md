@@ -9,7 +9,7 @@ tags: ["antecedentes", "proyecto"]
 draft: false
 ---
 
-Los antecedentes del proyecto son investigaciones previas que se han realizado sobre el tema del proyecto. Estos antecedentes pueden proporcionar información útil para el desarrollo del proyecto y ayudar a identificar áreas de interés y posibles enfoques para la investigación. En esta sección, se presentan 3 antecedentes del proyecto que pueden ser relevantes para el desarrollo del proyecto de dispensador de alimento para mascotas basado en IoT.
+Los antecedentes del proyecto son investigaciones previas que se han realizado sobre el tema del proyecto. Estos antecedentes pueden proporcionar información útil para el desarrollo del proyecto y ayudar a identificar áreas de interés y posibles enfoques para la investigación. En esta sección, se presentan 3 antecedentes del proyecto que pueden ser relevantes para el desarrollo del proyecto.
 
 ### Antecedente N° 1
 
