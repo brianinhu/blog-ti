@@ -1,12 +1,12 @@
 ---
-title: "VI. Análisis de alternativas"
+title: "6. Análisis de alternativas"
 description: "meta description"
 date: 2024-10-16T06:00:00+00:00
 image: "/images/posts/06.jpg"
 draft: false
 authors: ["Carlos Pineda"]
-tags: ["Análisis", "Objetivos", "Alternativas", "Proyectos"]
-categories: ["VI"]
+tags: ["analisis", "alternativas"]
+categories: ["Analisis de alternativas"]
 ---
 
 El análisis de alternativas permite identificar las estrategias/acciones (alternativas de solución) para pasar de la situación negativa actual a la situación positiva deseada, es decir, este análisis implica describir el COMO lo vamos hacer.
@@ -25,7 +25,7 @@ A continuación, se desarrollará el análisis de alternativas para la implement
 
 Por cada medio fundamental del árbol de análisis de objetivos se identificó las acciones necesarias para alcanzar la situación positiva deseada.
 
-##### Medios fundamentales del árbol de análisis de objetivos
+#### Medios fundamentales del árbol de análisis de objetivos
 
 - Automatizar el monitoreo y control
 - Reducir costos operativos
@@ -39,17 +39,17 @@ Por cada medio fundamental del árbol de análisis de objetivos se identificó l
 
 Se organizaron las acciones identificadas en 2 proyectos alternativos, los cuales se describen en el siguiente diagrama y tabla.
 
-##### Diagrama de proyectos alternativos
+#### Diagrama de proyectos alternativos
 
 ![chuntels](/images/diagrama-proyectos-alternativos.png)
 
-##### Tabla de proyectos alternativos
+#### Tabla de proyectos alternativos
 
 ![chuntels](/images/tabla-proyectos-alternativos.png)
 
 ### Tarea 3: Evaluar los proyectos alternativos
 
-##### Definición de criterios de evaluación
+#### Definición de criterios de evaluación
 
 Usaremos los siguientes criterios para evaluar los proyectos alternativos:
 
@@ -59,18 +59,18 @@ Usaremos los siguientes criterios para evaluar los proyectos alternativos:
 - **Impacto social:** Beneficio directo para la calidad de agua y los usuarios.
 - **Vigencia tecnológica:** Qué tan innovadoras y actuales son las tecnologías empleadas.
 
-##### Elección del método de evaluación
+#### Elección del método de evaluación
 
 Utilizaremos el método de juicio de expertos, asignando un puntaje a cada criterio.
 
 ![chuntels](/images/tabla-criterios-evaluacion.png)
 
-##### Evaluación de proyectos alternativos
+#### Evaluación de proyectos alternativos
 
 Se presenta una tabla comparativa donde está asignado los puntajes basados en los criterios y usando el método de juicio de expertos.
 
 ![chuntels](/images/tabla-evaluacion-proyectos.png)
 
-##### Elección del proyecto alternativo más adecuado
+#### Elección del proyecto alternativo más adecuado
 
 El *Proyecto Alternativo N°1* obtiene un puntaje total de 12, mientras que el *Proyecto Alternativo N°2* alcanza un puntaje de 11. Por lo tanto, se recomienda implementar el *Proyecto Alternativo N°1*, ya que combina un menor costo y tiempo con un alto impacto social y viabilidad técnica.
