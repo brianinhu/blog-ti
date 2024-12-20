@@ -44,18 +44,15 @@ El desarrollo del cronograma es el proceso de analizar la secuencia de actividad
 
 El CPM permite identificar la secuencia de actividades críticas que determinan la duración total del proyecto. Las actividades críticas no tienen margen de flotación, por lo que cualquier retraso en estas afectará la fecha de finalización del proyecto.
 Pasos a seguir:
-- Identificar las actividades críticas: Basándonos en las duraciones y dependencias, identificamos la ruta más larga en el proyecto.
-- Calcular fechas de inicio y fin: Usamos las fechas de inicio más tempranas y más tardías para determinar la flexibilidad (flotación).
-- Incorporar los feriados y días no laborables: Ajustamos las fechas calculadas para considerar fines de semana y feriados.
+- **Identificar las actividades críticas:** Basándonos en las duraciones y dependencias, identificamos la ruta más larga en el proyecto.
+- **Calcular fechas de inicio y fin:** Usamos las fechas de inicio más tempranas y más tardías para determinar la flexibilidad (flotación).
+- **Incorporar los feriados y días no laborables:** Ajustamos las fechas calculadas para considerar fines de semana y feriados.
 
-Actividad A: Selección del sitio
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7uX8jFvwV8FJObpE8sEd0-QgdZc5zmh2CKpnWokLlXcM3YQyGE6WopOz2v72DWw/pubhtml?gid=1745532255&amp;single=true" width="100%" height="500px" style="box-shadow: -5px 3px 7px 3px rgba(222,222,222,1);"></iframe>
 
-- Inicio temprano (ES): 01/03/2025 (Fecha de inicio del proyecto)
-- Fin temprano (EF): 01/03/2025 + 3 días = 04/03/2025
-Actividad B: Preparación del sitio
+<iframe width="100%" height="250px" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7uX8jFvwV8FJObpE8sEd0-QgdZc5zmh2CKpnWokLlXcM3YQyGE6WopOz2v72DWw/pubchart?oid=2100694057&amp;format=interactive"></iframe>
 
-ES: 05/03/2025 (debido a la dependencia de A)
-EF: 05/03/2025 + 4 días = 09/03/2025
+<iframe width="100%" height="250px" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7uX8jFvwV8FJObpE8sEd0-QgdZc5zmh2CKpnWokLlXcM3YQyGE6WopOz2v72DWw/pubchart?oid=1212563394&amp;format=interactive"></iframe>
 
 &nbsp;
 ## Salidas
