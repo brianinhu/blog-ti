@@ -1,5 +1,5 @@
 # Blog TI
 
-## 📄Créditos
+## 📄Credits
 
 Designed & Developed by [Themefisher](https://themefisher.com)
